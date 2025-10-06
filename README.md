@@ -20,6 +20,7 @@ It’s a simple yet effective demonstration of real-time logic, LED control, and
 -In Arduino IDE you will have to install LedControl extension.
 
 [LedControl library](images/lib.jpg)
+![LedControl library](images/lib.jpg)
 
 
 

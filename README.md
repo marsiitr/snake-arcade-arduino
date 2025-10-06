@@ -16,7 +16,6 @@ It’s a simple yet effective demonstration of real-time logic, LED control, and
 ---
 
 ## :gear: Installations 
-### Arduino IDE
 [Arduino IDE](https://www.arduino.cc/en/software)
 -In Arduino IDE you will have to install LedControl extension.
 

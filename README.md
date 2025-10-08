@@ -28,7 +28,7 @@ Perfect for learning **Arduino programming**, **LED matrix handling**, and **gam
 
 ---
 
-### ⚙️ Software Setup  
+###  Software Setup  
 
 #### Installations  
 - [Arduino IDE](https://www.arduino.cc/en/software)  

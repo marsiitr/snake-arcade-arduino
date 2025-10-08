@@ -16,7 +16,7 @@ Perfect for learning **Arduino programming**, **LED matrix handling**, and **gam
 
 ---
 
-##  User Instructions  
+##  Building Instructions  
 
 ###  Hardware Requirements  
 - **Arduino**  

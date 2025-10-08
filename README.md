@@ -15,7 +15,7 @@ Perfect for learning **Arduino programming**, **LED matrix handling**, and **gam
 > _(You’ll add these later — placeholders included)_
 
 - 🕹️ **Gameplay Demo**:
-  ![Gameplay Demo](images/demo.mp4)
+  ![Gameplay Demo](images/demo.gif)
 - ⚡ **Circuit Diagram**:
   ![Circuit Diagram](images/circuit.png)
 

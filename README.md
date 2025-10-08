@@ -89,14 +89,13 @@ Perfect for learning **Arduino programming**, **LED matrix handling**, and **gam
 ---
 
 ##  Contribution Guidelines  
-Want to make it better? You can help by:  
-- Improving **animations** or **game feedback** (like blink/game over patterns)  
-- Writing documentation for beginners  
-- Creating a modular structure for **reusability**
+ You can also make a contribution by:
+-Aiding **animations** or **game feedback** (e.g., blink/game over motifs)
+- Documentation for novices, written
+- Defining a modular framework on **reusability**
 
-Open a pull request or issue to suggest improvements!
-
+You can open a pull request on this repo or contact MARS' senior!
 ---
 
 
-✨ **Enjoy building and playing your own Snake Game on Arduino!**
+ **Enjoy building and playing your own Snake Game on Arduino!**
